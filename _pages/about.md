@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Machine Learning Scientist at Amazon Web Services based Berlin (Germany).
+I am a Senior Machine Learning Scientist at Amazon Web Services based Berlin (Germany).
 
 Short bio
 ---
