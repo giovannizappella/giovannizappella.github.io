@@ -12,7 +12,7 @@ redirect_from:
 
 Short bio
 ---
-Add
+Add [link](www.google.com)
 
 News
 ---
