@@ -20,7 +20,6 @@ I previously worked on exporation/exploitation methods for recommendation system
 were deployed in several experiences within Amazon Music, most notably the ranking of content on the homepage
 and the selection of playable entities based on customers' queries for the Alexa experience.
 
-
 Before joining Amazon I have been PhD Student in Applied Mathematics, at University of Milan (Italy) under the supervision of [Prof. Nicol&ograve; Cesa-Bianchi](http://homes.di.unimi.it/~cesabian/). 
 During my PhD I also had the the opportunity to collaborate closely with [Prof. Claudio Gentile](https://sites.google.com/view/cgentile) and [Fabio Vitale](http://researchers.lille.inria.fr/vitale/).
 
