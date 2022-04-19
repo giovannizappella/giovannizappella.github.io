@@ -13,10 +13,9 @@ redirect_from:
 Short bio
 ---
 
-I am a Senior Machine Learning Scientist at Amazon Web Services based Berlin (Germany). 
-I am currently working in the long-term science team creating new solutions for AWS SageMaker.
+I am a Senior Machine Learning Scientist working in the long-term science team creating new solutions for [AWS SageMaker](https://aws.amazon.com/de/sagemaker/).
 
-I previously worked on exporation/exploitation methods for recommendation systems. Those solutions
+Prior to that, I worked on exporation/exploitation methods for recommendation systems. Those solutions
 were deployed in several experiences within Amazon Music, most notably the ranking of content on the homepage
 and the selection of playable entities based on customers' queries for the Alexa experience.
 
@@ -29,4 +28,6 @@ Something that you cannot find on [my LinkedIn profile](http://it.linkedin.com/i
 
 News
 ---
-add
+
+* An implementation of RUSH has been added to the [SyneTune library](https://github.com/awslabs/syne-tune) (kudos to [Martin](https://scholar.google.de/citations?user=pTULHVsAAAAJ) for that). 
+* We created a YouTube channel for the [AutoML seminars](https://automl-seminars.github.io/) were you can find the video of the most recent talks. Check it out [here](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/videos).
