@@ -36,7 +36,7 @@ News
 Publications
 ---
 
-I do not update this page with preprints, but in most cases you can find them looking at <u><a href="https://arxiv.org/search/cs?searchtype=author&query=Zappella%2C+G"> my Arxiv profile</a>.</u>
+I do not update this page with preprints, but in most cases you can find them looking at [my Arxiv profile](https://arxiv.org/search/cs?searchtype=author&query=Zappella%2C+G).
 
 {% include base_path %}
 
