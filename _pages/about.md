@@ -31,3 +31,15 @@ News
 
 * You can now speedup your HPO/NAS jobs using [RUSH](https://arxiv.org/abs/2103.16111). An implementation of the algorithm has been added to the [SyneTune library](https://github.com/awslabs/syne-tune) (kudos to [Martin](https://scholar.google.de/citations?user=pTULHVsAAAAJ) for that).
 * We created a YouTube channel for the [AutoML seminars](https://automl-seminars.github.io/) were you can find the video of the most recent talks. Check it out [here](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/videos).
+
+
+Publications
+---
+
+I do not update this page with preprints, but in most cases you can find them looking at <u><a href="https://arxiv.org/search/cs?searchtype=author&query=Zappella%2C+G"> my Arxiv profile</a>.</u>
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
