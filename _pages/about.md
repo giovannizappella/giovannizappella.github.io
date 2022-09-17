@@ -36,6 +36,6 @@ News
 Publications
 ---
 
-Preprints are available on <u><a href="https://arxiv.org/search/cs?searchtype=author&query=Zappella%2C+G"> my Arxiv profile</a>.</u>
+Preprints are available on [my Arxiv profile](https://arxiv.org/search/cs?searchtype=author&query=Zappella%2C+G).
 
-You can also find my most recent papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my most recent papers on [my Google Scholar profile]({{author.googlescholar}}).
