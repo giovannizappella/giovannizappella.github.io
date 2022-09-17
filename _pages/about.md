@@ -40,4 +40,4 @@ Publications
 
 Preprints are available on [my Arxiv profile](https://arxiv.org/search/cs?searchtype=author&query=Zappella%2C+G).
 
-You can also find my most recent papers on [my Google Scholar profile]({{author.googlescholar}}).
+You can also find my most recent papers on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Gb8qRLsAAAAJ&view_op=list_works&sortby=pubdate).
