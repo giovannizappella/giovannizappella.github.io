@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giovanni Zappella"
 title_separator          : "-"
 name                     : &name "Giovanni Zappella"
-description              : &description "add description here"
+description              : &description "Giovanni Zappella, machine learning researcher"
 url                      : https://giovannizappella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giovanni Zappella"
   avatar           : "profile.png"
-  bio              : "Add bio"
+  bio              : "Machine Learning researcher"
   location         : "Berlin /Germany"
   employer         :
   pubmed           : 
