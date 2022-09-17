@@ -29,6 +29,8 @@ Something that you cannot find on [my LinkedIn profile](http://it.linkedin.com/i
 News
 ---
 
+(see the profiles below for new papers/pre-prints)
+
 * You can now speedup your HPO/NAS jobs using [RUSH](https://arxiv.org/abs/2103.16111). An implementation of the algorithm has been added to the [SyneTune library](https://github.com/awslabs/syne-tune) (kudos to [Martin](https://scholar.google.de/citations?user=pTULHVsAAAAJ) for that).
 * We created a YouTube channel for the [AutoML seminars](https://automl-seminars.github.io/) were you can find the video of the most recent talks. Check it out [here](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/videos).
 
