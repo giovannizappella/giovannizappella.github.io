@@ -13,7 +13,7 @@ redirect_from:
 Short bio
 ---
 
-I am a Principal Machine Learning Scientist at AWS working on creating agents for code generation. Some of these agents current power [Q Developer Agent](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/). 
+I am a Principal Machine Learning Scientist at AWS, working on creating agents for code generation. Some of these agents currently power [Q Developer Agent](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/). 
 Proveiously I have been working on creating new solutions for [Aamzon SageMaker](https://aws.amazon.com/de/sagemaker/), recommendation systems at Amazon Music and other internal systems for Amazon's retail business.
 
 
