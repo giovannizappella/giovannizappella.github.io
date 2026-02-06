@@ -1,0 +1,1 @@
+Folders of images, only profile.png is required
